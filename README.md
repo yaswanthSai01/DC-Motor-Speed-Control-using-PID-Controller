@@ -16,6 +16,8 @@ The model uses **Simscape Electrical** components to simulate motor dynamics acc
 
 The Simulink model includes a **DC motor block**, **PID controller**, and various signal inputs.
 
+![circuit.png](circuit.png)
+
 ### 🧱 Components
 
 - **DC Motor:**  
